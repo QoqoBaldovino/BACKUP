@@ -1,0 +1,11 @@
+.good{
+  background-color: aqua;
+  border: 2px solid green;
+  width: 50%;
+}
+
+.error{
+  background-color: rgb(197, 115, 106);
+  border: 2px solid red;
+  width: 50%;
+}
